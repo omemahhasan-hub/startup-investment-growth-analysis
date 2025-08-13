@@ -105,7 +105,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 
 ##  ABOUT ME
 
-**Afrah** | Aspiring Data Analyst  
+**Omemah Hasan** | Aspiring Data Analyst  
 🎓 **M.Tech Computer Science** (2022)  
 💡 Specializing in **Business Intelligence, Investment Analytics, Data Visualization**  
 
