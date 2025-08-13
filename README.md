@@ -1,4 +1,4 @@
-# 🚀 Startup Investment Analysis Dashboard
+#  Startup Investment Analysis Dashboard
 
 > **Quick Overview:** Analyzed $12T in global startup investments (2000–2023) across 5,000 companies and 10 countries. Built interactive Power BI dashboards revealing Australia's $181B market leadership, healthcare's $1.6T dominance, and post-2021 investment opportunities. Demonstrates end-to-end BI skills from data transformation to executive reporting.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 ABOUT THIS PROJECT
+##  ABOUT THIS PROJECT
 
 This project marks my return to data analytics after dedicated skill-building in Business Intelligence and Power BI.  
 It showcases my ability to work with **large-scale datasets**, conduct **data transformation**, and produce **insight-driven dashboards** for real-world decision-making.
@@ -32,7 +32,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 
 ---
 
-## 💼 BUSINESS VALUE DELIVERED
+##  BUSINESS VALUE DELIVERED
 
 - **Strategic Intelligence:** Global trends across 8 industries  
 - **Risk Analysis:** Timing and geographic risk indicators  
@@ -41,7 +41,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 
 ---
 
-## 🛠 TECHNICAL SKILLS
+##  TECHNICAL SKILLS
 
 | Skill Area              | Tools & Methods        | Deliverables Produced |
 |-------------------------|------------------------|-----------------------|
@@ -53,7 +53,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 
 ---
 
-## 📊 DASHBOARDS
+##  DASHBOARDS
 
 **Executive Overview**  
 ![Dashboard 1](images/dashboards/dashboard-1-sc.PNG)  
@@ -74,7 +74,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 
 ---
 
-## ⚙️ TECHNICAL IMPLEMENTATION
+##  TECHNICAL IMPLEMENTATION
 
 **Workflow:**  
 `Raw Data (5K rows, 10 cols) → Cleaning → Transformation → 13-column Analysis Model`  
@@ -93,5 +93,26 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 
 ---
 
-## 📂 PROJECT STRUCTURE
+##  PROJECT STRUCTURE
+ Startup Investment Analysis
+├── 📂 data/
+│ ├── raw/ # Original dataset
+│ └── processed/ # Cleaned, transformed dataset
+├── 📂 images/dashboards/
+├── 📂 powerbi-dashboard/
+└── 📂 documentation/
+
+
+##  ABOUT ME
+
+**Afrah** | Aspiring Data Analyst  
+🎓 **M.Tech Computer Science** (2022)  
+💡 Specializing in **Business Intelligence, Investment Analytics, Data Visualization**  
+
+📧 [Your Email] |  [Portfolio Link] |  [LinkedIn] |  [GitHub]  
+
+---
+
+> *"Transforming 23 years of startup data into actionable investment intelligence"*
+
 
