@@ -1,8 +1,8 @@
 #  Startup Investment Analysis Dashboard
 
-> **Quick Overview:** Analyzed $12T in global startup investments (2000–2023) across 5,000 companies and 10 countries. Built interactive Power BI dashboards revealing Australia's $181B market leadership, healthcare's $1.6T dominance, and post-2021 investment opportunities. Demonstrates end-to-end BI skills from data transformation to executive reporting.
+> **Quick Overview:** Analyzed $12T in global startup investments (2000–2023) across 5,000 companies and 10 countries. Built interactive Power BI dashboards revealing Australia’s top position in startup count (548) and investment volume and Germany with 105% growth rate , healthcare's $1.6T dominance, and post-2021 investment opportunities. Demonstrates end-to-end BI skills from data transformation to executive reporting.
 
-## *$12T Global Investment Analysis | 5,000 Startups | 10 Countries | 23 Years*
+## *$12T Global Investment Analysis | 5,000 Startups | 10 Countries | 8 Industries | 23 Years*
 
 **Power BI Portfolio Project** | Business Intelligence | Investment Analytics | Data Storytelling
 
@@ -24,11 +24,11 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 ## 📈 KEY INSIGHTS
 
 - **Peak Funding:** $576B in 2019 → 35% decline post-2021, creating market entry opportunities  
-- **🇦🇺 Australia:** $181B total investment, leading market  
-- **🇩🇪 Germany:** 105% growth rate, fastest expanding  
+- **Australia:** 584 startups, average $2.4B investment, leading market  
+- **Germany:** 105% growth rate, fastest expanding  
 - **Healthcare:** $1,636.6B invested | 685 startups | 17K investors  
 - **EdTech:** Fastest growth sector despite startup count decline post-2021  
-- **Biotech:** $2.4B average valuation, industry leader
+- **AI:** $8.2B average valuation, industry leader
 
 ---
 
@@ -109,7 +109,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 🎓 **M.Tech Computer Science** (2022)  
 💡 Specializing in **Business Intelligence, Investment Analytics, Data Visualization**  
 
-📧 [Your Email] |  [Portfolio Link] |  [LinkedIn] |  [GitHub]  
+📧  |  [Portfolio Link] |  [LinkedIn] |  [GitHub]  
 
 ---
 
