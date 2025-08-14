@@ -109,7 +109,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 🎓 **M.Tech Computer Science** (2022)  
 💡 Specializing in **Business Intelligence, Investment Analytics, Data Visualization**  
 
-📧  |  [Portfolio Link] |  [LinkedIn] |  [GitHub]  
+📧 omemahhasan@gmail.com  |  [LinkedIn] |  https://github.com/omemahhasan-hub 
 
 ---
 
