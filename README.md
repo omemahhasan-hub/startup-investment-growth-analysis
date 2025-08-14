@@ -103,15 +103,6 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 └── 📂 documentation/
 
 
-##  ABOUT ME
-
-**Omemah Hasan** | Aspiring Data Analyst  
-🎓 **M.Tech Computer Science** (2022)  
-💡 Specializing in **Business Intelligence, Investment Analytics, Data Visualization**  
-
-📧 omemahhasan@gmail.com  |  [LinkedIn] |  https://github.com/omemahhasan-hub 
-
----
 
 > *"Transforming 23 years of startup data into actionable investment intelligence"*
 
