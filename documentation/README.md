@@ -46,13 +46,19 @@ Comprehensive analysis of global startup ecosystem to identify investment trends
 
 ## 📈 Analysis Process
 
-### Data Cleaning & Preparation
-**Power Query Transformations:**
+### Data Wrangling & Manipulation
+**Data Wrangling (Power Query):**
 - Promoted headers to ensure proper column structure
-- Added custom columns: Growth Rate (categorical), Funding Rounds levels, Year grouped, Countries (short)
-- Changed data types for accurate analysis
+- Handled missing values and standardized data formats
 - Removed duplicate records to ensure data integrity
+- Validated data consistency across 23-year timeline
 
+**Data Manipulation (Power Query + DAX):**
+- Added custom columns: Growth Rate (categorical), Funding Rounds levels, Year grouped, Countries (short)
+- Restructured temporal data for trend analysis
+- Created 25 custom DAX measures for advanced calculations
+- Transformed raw funding data into analytical frameworks
+  
 ### Analysis Methodology
 Multi-dimensional analysis approach:
 - **Geographic Analysis**: Country-wise investment patterns and trends
@@ -85,14 +91,13 @@ Multi-dimensional analysis approach:
 
 ---
 
-## 📋 Technical Implementation
-
 ### Excel Features Used
 - Data preprocessing and initial exploration
 - Statistical analysis and data validation
 - Preliminary trend identification
 
-### Power BI Components
+### 📋 Data Processing & Technical Implementation (Power BI Components)
+**Data Wrangling Pipeline:**
 - **25 Custom DAX Measures**: Advanced calculations for comprehensive business intelligence
   - **Geographic Analysis**: Most Invested Country, Most Investors Country, High Growth Rate Country, Country with More Startups
   - **Industry Performance**: Highest Valuation Industry, Top Growth Industry, Top Industry Valuation, Top Investment Industry, Industry with High Avg Valuation
@@ -104,8 +109,8 @@ Multi-dimensional analysis approach:
 - **Power Query**: Comprehensive data transformation pipeline
 
 ### Challenges & Solutions
-**Challenge 1**: Managing 23 years of diverse startup data
-- **Solution**: Created year groupings and custom date hierarchies for better trend analysis
+**Challenge 1**: Complex data wrangling across 23 years of diverse startup data formats
+- **Solution**: Implemented systematic data manipulation pipeline using Power Query for standardization by creating year groupings and custom date hierarchies for better trend analysis.
 
 **Challenge 2**: Standardizing country names and categories
 - **Solution**: Added Countries(short) column and Funding Rounds levels for consistent analysis
@@ -147,6 +152,10 @@ Multi-dimensional analysis approach:
 - Geographic and temporal trend analysis
 - Industry performance benchmarking
 
+**Core Data Processing Skills:**
+- Data wrangling: cleaning, validation, and standardization of startup ecosystem data
+- Data manipulation: advanced Power Query transformations and DAX measure development
+- Advanced analytics: trend analysis and investment pattern identification
 ---
 
 ## 📱 Dashboard Features
