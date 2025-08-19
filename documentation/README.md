@@ -134,7 +134,7 @@ Multi-dimensional analysis approach:
 
 ---
 
-## 🚀 Project Outcomes
+##  Project Outcomes
 
 ### Deliverables
 - ✅ Comprehensive Excel analysis
@@ -158,7 +158,7 @@ Multi-dimensional analysis approach:
 - Advanced analytics: trend analysis and investment pattern identification
 ---
 
-## 📱 Dashboard Features
+##  Dashboard Features
 
 ### Interactive Elements
 - **Dynamic Slicers**: Filter by country, industry, year ranges, and funding levels
