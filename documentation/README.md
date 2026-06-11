@@ -1,6 +1,6 @@
 # Startup Growth Investment Analysis - Data Analysis Documentation
 
-## 📊 Project Overview
+##  Project Overview
 
 ### Business Problem
 Comprehensive analysis of global startup ecosystem to identify investment trends, high-growth opportunities, and market patterns across 23 years of venture capital data.
@@ -19,7 +19,7 @@ Comprehensive analysis of global startup ecosystem to identify investment trends
 
 ---
 
-## 🔍 Key Business Insights
+##  Key Business Insights
 
 ### Executive Summary
 **Primary Finding**: Global startup investment peaked at $576B in 2019, with a significant 35% decline post-2021, indicating market correction and shifting investment strategies.
@@ -44,7 +44,7 @@ Comprehensive analysis of global startup ecosystem to identify investment trends
 
 ---
 
-## 📈 Analysis Process
+##  Analysis Process
 
 ### Data Wrangling & Manipulation
 **Data Wrangling (Power Query):**
@@ -74,7 +74,7 @@ Multi-dimensional analysis approach:
 
 ---
 
-## 🎯 Business Recommendations
+##  Business Recommendations
 
 ### Immediate Actions for Investors
 1. **Geographic Diversification**: Allocate 60% to stable markets (Australia) and 40% to high-growth regions (Germany)
@@ -96,7 +96,7 @@ Multi-dimensional analysis approach:
 - Statistical analysis and data validation
 - Preliminary trend identification
 
-### 📋 Data Processing & Technical Implementation (Power BI Components)
+###  Data Processing & Technical Implementation (Power BI Components)
 **Data Wrangling Pipeline:**
 - **25 Custom DAX Measures**: Advanced calculations for comprehensive business intelligence
   - **Geographic Analysis**: Most Invested Country, Most Investors Country, High Growth Rate Country, Country with More Startups
@@ -117,7 +117,7 @@ Multi-dimensional analysis approach:
 
 ---
 
-## 📊 Key Metrics & Results
+##  Key Metrics & Results
 
 ### Primary KPIs Analyzed
 - **Investment Trends**: Peak $576B (2019), 35% post-2021 decline
