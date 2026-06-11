@@ -61,7 +61,7 @@ It showcases my ability to work with **large-scale datasets**, conduct **data tr
 **Investment Trends**  
 ![Dashboard 2](images/dashboards/dashboard-2-sc.PNG)  
 
-** Market Intelligence**  
+**Market Intelligence**  
 ![Dashboard 3](images/dashboards/dashboard-3-sc.PNG)  
 
 ---
